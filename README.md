@@ -89,7 +89,7 @@ Review the following files in the current folder:
 - [func.yaml](./func.yaml) that contains metadata about your function and declares properties
 - [func.py](./func.py) which is your actual Python function
 
-The name of your function *fn-streaming* is specified in [func.yaml](./func.yaml).
+The name of your function *file-upload* is specified in [func.yaml](./func.yaml).
 
 
 ## Deploy the function
